@@ -5,12 +5,12 @@ SQL , NoSQL migration &amp; deployment tools. with CLI and version control
 
 ## Databases ##
 ### SQL ###
-⋅⋅* MySQL
-⋅⋅* PostgreSQL
+  * MySQL
+  * PostgreSQL
 
 ### NoSQL ###
-⋅⋅* MongoDB
-⋅⋅* ElasticSearch
-⋅⋅* Cassandra
+  * MongoDB
+  * ElasticSearch
+  * Cassandra
 
 ### AND More... ###
