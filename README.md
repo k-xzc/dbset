@@ -1,5 +1,5 @@
 # Currently under construction #
-# Target Release first look : End of Q1 2019 #
+# Target Release first look : End of Q2 2019 #
 
 # dbcreator
 SQL , NoSQL migration &amp; deployment tools. with CLI and version control 
