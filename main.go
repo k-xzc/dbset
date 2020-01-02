@@ -1,9 +1,7 @@
 package main
 
-import (
-	a "dbcreator/cmd"
-)
+import "github.com/kantsuw/dbset/cmd"
 
 func main() {
- 	a.Init()
+	cmd.Execute()
 }

@@ -1,11 +1,17 @@
-# Currently under construction #
-# Target Release first look : End of Q2 2019 #
+# DBSet
+## Currently under construction 
+## First Release : End of Q1 2020 
+ 
+CLI based, Databases schema migration & version control tool
 
-# dbcreator
-SQL , NoSQL migration &amp; deployment tools. with CLI and version control 
+Support both SQL , NoSQL (Mysql , Mongodb for Q1)
 
-## Databases ##
-### SQL ###
+Easy to intergrate with CI pipeline like jenkins, teamcity and etc.
+
+Support Kubernetes testing & deployment
+
+## Databases
+### SQL 
   * MySQL
     * Tables
     * Indexes
@@ -23,7 +29,7 @@ SQL , NoSQL migration &amp; deployment tools. with CLI and version control
     * Stored Procedures
     * Security
 
-### NoSQL ###
+### NoSQL
   * MongoDB
     * Collection
     * Column
@@ -33,12 +39,8 @@ SQL , NoSQL migration &amp; deployment tools. with CLI and version control
     * Indexes
     * Mapping
     * Types
-  * Cassandra
-    * 2.1
-    * 2.2
-    * 3.11
     
-### AND More... ###
+### AND More...
 
 
 
